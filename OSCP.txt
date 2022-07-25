@@ -1,0 +1,773 @@
+Privilege Escalation
+
+Linux Privilege Escalation · OSCP - Useful Resources
+
+Privilege Escalation - Windows · Total OSCP Guide
+
+Linux Privilege Escalation using Sudo Rights
+
+Abusing SUDO (Linux Privilege Escalation) - Touhid M.Shaikh
+
+Basic Linux Privilege Escalation
+
+rebootuser/LinEnum: Scripted Local Linux Enumeration & Privilege Escalation Checks
+
+Windows Privilege Escalation · OSCP - Useful Resources
+
+Spawning a TTY Shell
+
+Linux Privilege Escalation Using PATH Variable
+
+Windows
+
+Weak Service Permissions | Penetration Testing Lab
+
+Windows elevation of privileges
+
+Windows Privilege Escalation - AwanSec
+
+OSCP Notes – Privilege Escalation (Windows) – Securism
+
+FuzzySecurity | Windows Privilege Escalation Fundamentals
+
+Start or stop Windows service from command line (CMD)
+
+Reverse Shell
+
+php-reverse-shell | pentestmonkey
+
+Reverse Shell Cheat Sheet | pentestmonkey
+
+jondonas/linux-exploit-suggester-2: Next-Generation Linux Kernel Exploit Suggester
+
+OSCP-PwK/check-exploits.py at master · so87/OSCP-PwK
+
+OSCP-PwK/Penetration Testing Tools.docx at master · so87/OSCP-PwK
+
+https://raw.githubusercontent.com/so87/OSCP-PwK/master/linux-local-enum.sh
+
+OSCP/Bookmark List.pdf at master · ihack4falafel/OSCP
+
+dostoevskylabs/dostoevsky-pentest-notes: Notes for taking the OSCP in 2097. Read in book form on GitBook
+
+abatchy's blog | Posts Tagged “OSCP Prep”
+
+35 Practical Examples of Linux Find Command
+
+Character Code, HEX, ASCII
+
+Md5 Decrypt & Encrypt - More than 10.000.000.000 hashes
+
+Best MD5 & SHA1 Password Hash Decrypter - Hash Toolkit
+
+(87) Mr Frauenhofer - YouTube
+
+GitHub - qazbnm456/awesome-cve-poc: ✍️ A curated list of CVE PoCs.
+
+Awesome Search
+
+(131) Study Music Alpha Waves: Relaxing Studying Music, Brain Power, Focus Concentration Music, ☯161 - YouTube
+
+unix-privesc-check | pentestmonkey
+
+linpostexp/linprivchecker.py at master · reider-roque/linpostexp
+
+reider-roque/linpostexp: Linux post exploitation enumeration and exploit checking tools
+
+lanmaster53.com
+
+scanning port wihout nmap
+
+A guide to Linux Privilege Escalation - payatu
+
+Converter
+
+Best Base64 Decode Online tool to Decodes base64 String, URL, File.
+
+More with smbclient, smbget, enum4linux Carnal0wnage - Attack Research Blog Carnal0wnage & Attack Research Blog
+
+Resource: The how to pass an exam/certification and study guide Wiki by Peerlyst - OSCP, peerlyst wiki, guides
+
+P0cL4bs/Kadimus: Kadimus is a tool to check sites to lfi vulnerability , and also exploit it...
+
+type of encoding
+
+Hash Type Checker - Check and validate your hash string
+
+LFI Cheat Sheet
+
+31 days of OSCP Experience - ScriptDotSh
+
+Pentester Academy: Learn Pentesting Online
+
+Buffer Overflow
+
+Exploiting Simple Buffer Overflows on Win32
+
+Simple Buffer Overflows
+
+Buffer Overflow: Lesson 1: PCMan's FTP Server 2.0.7 Buffer Overflow Explained
+
+Exploting Buffer Overflow Minishare 1.4.1 – mosunit
+
+Exploit writing tutorial part 1 : Stack Based Overflows | Corelan Team
+
+How to use msfvenom · rapid7/metasploit-framework Wiki
+
+A Virgil's Guide to Pentest: Enumeration is the KEY
+
+Welcome to SecurityTube.net
+
+Offensive Security Student Support
+
+Passing OSCP - scund00r
+
+LazySysAdmin: 1 ~ VulnHub
+
+(231) HackTheBox - Waldo - YouTube
+
+Hack The Box :: Dashboard
+
+Pwk kali vm - Offensive Security
+
+Pwk connectivity guide - Offensive Security
+
+Status - freenode Web IRC
+
+PWK Resources and Downloads
+
+Penetration Testing with Kali Linux
+
+Week 1 - OSCP Preparation / LAB Setup
+
+PWB General Conversation
+
+OSCP Survival Guide · xxooxxooxx/xxooxxooxx.github.io Wiki
+
+SSH Tunneling Magic – Reznok
+
+Local Port Forwarding (SSH)
+
+Go-For-OSCP | Hacking and security
+
+My OSCP Experience - The Coffeegist
+
+Higgsx's Journey to OSCP — TechExams Community
+
+scipag/vulscan: Advanced vulnerability scanning with Nmap NSE
+
+pentest-notes/OSCP-Survival-Guide.md at master · wwong99/pentest-notes
+
+Pentesting Cheatsheet – root@Hausec
+
+44592-linux-restricted-shell-bypass-guide.pdf
+
+OSCP - Windows Priviledge Escalation | Hacking and security
+
+Pentestit Lab v11 - RDP Token (3/12) - Jack Hacks
+
+tms4a/failed-stuff: stuff that was never worth finishing. mostly junk programs
+
+OSCP course review | Hacking and security
+
+Offensive Security's Complete Guide to Alpha
+
+Offensive Security's Complete Guide to Alpha
+
+Paste · Slexy.org Pastebin
+
+OSCP notes
+
+[PentesterLab]
+
+https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
+
+linuxprivchecker/linuxprivchecker.py at master · sleventyeleven/linuxprivchecker
+
+SecLists/Passwords/Default-Credentials at master · danielmiessler/SecLists
+
+How to Perform Local Privilege Escalation Using a Linux Kernel Exploit « Null Byte :: WonderHowTo
+
+milo2012/pathbrute: Pathbrute
+
+Hakluke’s Ultimate OSCP Guide: Part 3 — Practical hacking tips and tricks
+
+Jump ESP, jump!: Attacking Adobe ColdFusion
+
+PayloadsAllTheThings/Reverse Shell Cheatsheet.md at master · swisskyrepo/PayloadsAllTheThings
+
+How to Remotely Enable and Disable (RDP) Remote Desktop
+
+Window-Tools/Simple Reverse Shell at master · infoskirmish/Window-Tools
+
+pentest-tools/shells at master · reider-roque/pentest-tools
+
+Port Scanning · Total OSCP Guide
+
+Creating Metasploit Payloads
+
+Windows and Unix command line equivalents
+
+Pashkela/Cfm_Shell_v3.0_edition: Cfm Shell v3.0 edition
+
+1N3/BruteX: Automatically brute force all services running on a target.
+
+Penetration Testing Methodology - 0DAYsecurity.com
+
+Local File Inclusion · Total OSCP Guide
+
+Get Reverse-shell via Windows one-liner
+
+Transferring files from Kali to Windows (post exploitation)
+
+How to use the Linux ftp command to up- and download files on the shell
+
+Payload netcat FTP download and reverse shell · hak5darren/USB-Rubber-Ducky Wiki
+
+Windows elevation of privileges
+
+PayloadsAllTheThings/Windows - Privilege Escalation.md at master · swisskyrepo/PayloadsAllTheThings
+
+Testing a POP3 server via telnet or OpenSSL – The Sarth Repository
+
+Samba 2.2.x - 'call_trans2open' Remote Buffer Overflow (2)
+
+A Little Guide to SMB Enumeration
+
+OSCPRepo/scripts/recon_enum at master · rewardone/OSCPRepo
+
+rewardone/OSCPRepo: A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' Keepn
+
+PWK Notes: SMB Enumeration Checklist [Updated] | 0xdf hacks stuff
+
+areyou1or0/OSCP: OSCP
+
+skywind3000/terminal: Open Terminal Window to execute command in Windows / Cygwin / Ubuntu / OS X
+
+epinna/tplmap: Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+
+ch4inrulz: 1.0.1 | Vulnhub Walkthrough – egghunter – Medium
+
+r57.txt - c99.txt - r57 shell - c99 shell - r57shell - c99shell - r57 - c99 - shell archive - php shells - php exploits - bypass shell - safe mode bypass - sosyete safe mode bypass shell - Evil Shells - exploit - root - localshell.net
+
+Insert PHP Backdoor Files into JPG Image Files
+
+web application - Malicious code in image. Harmful? - Information Security Stack Exchange
+
+Microsoft Word - File Upload Vulnerability in FCKEditor.doc
+
+Linux Kernel 2.6.22 < 3.9 - 'Dirty COW' 'PTRACE_POKEDATA' Race Condition Privilege Escalation (/etc/passwd Method)
+
+45074-file-upload-restrictions-bypass.pdf
+
+Dashboard
+
+DVWA - Main Login Page - Brute Force HTTP POST Form With CSRF Tokens
+
+Moham3dRiahi/XBruteForcer: X Brute Forcer Tool ��� WordPress , Joomla , DruPal , OpenCart , Magento
+
+Penetration Testing on Remote Desktop (Port 3389)
+
+How to Crack Shadow Hashes After Getting Root on a Linux System « Null Byte :: WonderHowTo
+
+worawit/MS17-010: MS17-010
+
+danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing pa
+
+Lateral Movement with SMBRelayx.py | Breaking Applications
+
+Bash get exit code of command on a Linux / Unix - nixCraft
+
+8 Ways To Mount SMBfs (SAMBA FILE SYSTEM) In Linux. - The Linux Juggernaut
+
+Hack The Box Write-up - Active | text/plain
+
+Pentesting Cheatsheet – root@Hausec
+
+pentest-notes/OSCP-Survival-Guide.md at master · wwong99/pentest-notes
+
+15 Ways to Download a File
+
+OSCP/Documents at master · ihack4falafel/OSCP
+
+oscp/reconscan.py at master · xapax/oscp
+
+Passing OSCP - scund00r
+
+Pen Testing SQL Servers With Nmap | Penetration Testing Lab
+
+SMB Share – SCF File Attacks | Penetration Testing Lab
+
+HackingDatabases.ppt
+
+Hand Guide To Local File Inclusion(LFI)
+
+Local File Inclusion · Security - My notepad
+
+CVV #1: Local File Inclusion – InfoSec Write-ups – Medium
+
+D35m0nd142/LFISuite: Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner
+
+fuzzdb/dict/BURP-PayLoad at master · tennc/fuzzdb
+
+Basics of Linux · Security - My notepad
+
+Public Network
+
+Local Linux Enumeration & Privilege Escalation Cheatsheet – Rebootuser
+
+Editing /etc/passwd File for Privilege Escalation
+
+Linux Privilege Escalation using SUID Binaries
+
+Linux Privilege Escalation via Automated Script
+
+https://gist.githubusercontent.com/sckalath/ec7af6a1786e3de6c309/raw/206505282d0d0261cbc2bce8c33d55fe6ac6b7fd/wget_vbs
+
+Windows Kernel Exploits | Penetration Testing Lab
+
+GitHub - Arvanaghi/SessionGopher: SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.
+
+Windows Privilege Escalation Scripts & Techniques – Rahmat Nurfauzi – Medium
+
+GitHub - 411Hall/JAWS: JAWS - Just Another Windows (Enum) Script
+
+MS16-032 | Penetration Testing Lab
+
+Windows - Pentest Notes
+
+Unquoted Service Path | Penetration Testing Lab
+
+How to modify exploits for Windows
+
+ms16-032 one-liners – Will Genovese
+
+GitHub - samratashok/nishang: Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
+
+Window Privilege Escalation via Automated Script
+
+GitHub - gammathc/oscp_material: Material i gathered for the Offensive Security Certified Professional OSCP
+
+Offensive Security’s PWK & OSCP Review - Jack Hacks
+
+GitHub - SecWiki/windows-kernel-exploits: windows-kernel-exploits Windows平台提权漏洞集合
+
+Lab of a Penetration Tester: Using PowerShell for Client Side Attacks
+
+PJRC: Electronic Projects
+
+Lab of a Penetration Tester: Fun with DNS TXT Records and PowerShell
+
+Mad With PowerShell: 64-bit vs 32-bit PowerShell
+
+optimum on hackthebox.eu
+
+Empire/Invoke-MS16032.ps1 at master · EmpireProject/Empire · GitHub
+
+GitHub - rasta-mouse/Sherlock: PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
+
+GitHub - frizb/Windows-Privilege-Escalation: Windows Privilege Escalation Techniques and Scripts
+
+MS16-032提权正确方法
+
+GitHub - togie6/Windows-Privesc: Basics of Windows privilege escalation
+
+Run a command as a different user in Powershell - IT Droplets
+
+OSCP - JollyFrogs' tale - { Anas Aboureada }
+
+Privilege Escalation | Penetration Testing Lab | Page 3
+
+Post Exploitation — Ptest Method 1 documentation
+
+MySQL SQL Injection Cheat Sheet | pentestmonkey
+
+Basic Shellshock Exploitation - Knapsy’s brain dump
+
+HowTo: Grant Root Access to User - Root Privileges - Linux - ShellHacks
+
+Filesystem Hierarchy Standard
+
+Post-Exploitation Without A TTY | pentestmonkey
+
+Escaping Restricted Shell | SecureBean
+
+Restricted Linux Shell Escaping Techniques | FireShell Security Team
+
+How do I find out what shell I am using on Linux/Unix? - nixCraft
+
+GitHub - peterpt/fuzzbunch: Shadow Brokers NSA fuzzbunch tool leak . With windows auto instalation script
+
+Wizard Labs: Dummy | 0xdf hacks stuff
+
+GitHub - amonsec/exploit: Collection of different exploits
+
+Get Reverse-shell via Windows one-liner
+
+Windows oneliners to download remote payload and execute arbitrary code – arno0x0x
+
+GreatSCT/GreatSCT: The project is called Great SCT (Great Scott). Great SCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team.
+
+Femitter FTP Server 1.04 - Directory Traversal
+
+wireghoul/dotdotpwn: DotDotPwn - The Directory Traversal Fuzzer
+
+fingerprinting - How to find Windows version from the file on a remote system - Information Security Stack Exchange
+
+OSCP-2/Exploits at master · codingo/OSCP-2
+
+List of FTP commands - Wikipedia
+
+Manually Exploiting MS17-010 - LMG Security
+
+pentest/exploit_win at master · jivoi/pentest
+
+exploitdb/exploits at master · offensive-security/exploitdb
+
+Hack The Box (HTB): Blue – Travis – Medium
+
+Exploiting Eternalblue for shell with Empire & Msfconsole - Hacking Tutorials
+
+Tags | 0xdf hacks stuff
+
+mez0cc/MS17-010-Python: MS17-010: Python and Meterpreter
+
+EternalBlue7 Crashing Server 2008 · Issue #3 · worawit/MS17-010
+
+A Guide to Exploiting MS17-010 With Metasploit — Secure Network Technologies | Penetration Testers & Ethical Hackers
+
+Hacking Windows with Meterpreter
+
+exploiting-ebdp-en.pdf
+
+System | Init Se7en
+
+Metasploit Console: my own cheatsheet | So Long, and Thanks for All the Fish
+
+REPTILEHAUS/Eternal-Blue: REPTILEHAUS' simplified build process of Worawit Wang' (@sleepya_) version of EternalBlue.. The NSA exploit brought to you by the ShadowBrokers for exploiting MS17-010
+
+sailay1996/eternal-pulsar: Eternalblue-Doublepulsar without Metasploit or python
+
+AusJock/Privilege-Escalation: This contains common local exploits and enumeration scripts
+
+SecWiki
+
+Best JSBeautifier tool work as JavScript Beautifier and JavScript Viewer
+
+sheets/command_line.md · master · dud1337 / hackfort · GitLab
+
+DDecode - Hex,Octal,HTML Decoder
+
+OS and Application Fingerprinting Techniques
+
+SecLists/default-passwords.csv at master · danielmiessler/SecLists
+
+lucyoa/kernel-exploits
+
+Reverse Remote Shell – Freecode
+
+PoCs · dirtycow/dirtycow.github.io Wiki
+
+MarkBuffalo/exploits: Some random exploits that may or may not be useful. Not responsible for misuse.
+
+galkan/crowbar: Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
+
+SSH Keys: A Primer – Hacker Noon
+
+Use Public Key Authentication with SSH
+
+Linux elevation of privileges
+
+g0tmi1k/debian-ssh: Debian OpenSSL Predictable PRNG (CVE-2008-0166)
+
+/etc/shadow file format in Linux Explained ~ Your Own Linux..!
+
+Project 12: Cracking Linux Password Hashes with Hashcat (15 pts.)
+
+tommelo/shadowcrack: CLI Tool for cracking Linux /etc/shadow hashed passwords
+
+SUID Executables | Penetration Testing Lab
+
+Reverse Shell Cheat Sheet
+
+bhasbor/OSCP-2: This repo consists of important links (or URLs) which were bookmarked during my journey of OSCP Certification.
+
+ManageEngineFileUploadExploit/me.rb at master · Trek333/ManageEngineFileUploadExploit
+
+ankh2054/python-exploits: Repository for python exploits
+
+Useful commands for Windows administrators
+
+wget vbscript
+
+https://gist.githubusercontent.com/thel3l/993f8ed81a56e10525dd4812ad01ff2a/raw/e97cf87a7bcb310f3272bb0a8427c2aecbea7029/ms17-010_sleepya-fixed.py
+
+fuzzdb-project/fuzzdb: Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+
+brutespray/wordlist at master · x90skysn3k/brutespray
+
+Exploiting Apache Tomcat through port 8009 using the Apache JServ Protocol | Ionize
+
+abaykan/CrawlBox: Easy way to brute-force web directory.
+
+https://raw.githubusercontent.com/codingo/OSCP-2/master/BASH/PortKnocker.sh
+
+Top-Hat-Sec - Index
+
+SecWiki/linux-kernel-exploits: linux-kernel-exploits Linux平台提权漏洞集合
+
+Privilege escalation - Hackepedia
+
+Transferring files - Pentest Notes
+
+Infrastructure PenTest Series : Part 1 - Intelligence Gathering — tech.bitvijays.com
+
+Infrastructure PenTest Series : Part 2 - Vulnerability Analysis — tech.bitvijays.com
+
+NetBIOS and SMB Penetration Testing on Windows
+
+PayloadsAllTheThings/Active Directory Attack.md at master · swisskyrepo/PayloadsAllTheThings
+
+AD-Attack-Defense/README.md at master · infosecn1nja/AD-Attack-Defense
+
+DDecode - Hex,Octal,HTML Decoder
+
+WebHacking101/xss-reflected-steal-cookie.md at master · s0wr0b1ndef/WebHacking101
+
+ie_aurora/ie_aurora.py at master · Muhammd/ie_aurora
+
+渗透测试学习笔记之案例六 - 先知社区
+
+Metasploit Cheatsheet
+
+USEFULL OSCP MATERIAL | Future OSCP
+
+How to use the "netsh advfirewall firewall" context instead of the "netsh firewall" context to control Windows Firewall behavior in Windows Server 2008 and in Windows Vista
+
+How to edit the Registry using Command Prompt on Windows 10 | Windows Central
+
+Pentesting Notes | Walkthrough
+
+Backdooring EXE Files - Metasploit Unleashed
+
+MSFvenom - Metasploit Unleashed
+
+IIS5.1 Directory Authentication Bypass by using “:$I30:$Index_Allocation” | Soroush Dalili (@irsdl) – سروش دلیلی
+
+quentinhardy/msdat: MSDAT: Microsoft SQL Database Attacking Tool
+
+Enabling xp_cmdshell in SQL Server
+
+Full MSSQL Injection PWNage
+
+m8r0wn/enumdb: MySQL and MSSQL brute force and post exploitation tool to search through databases and extract sensitive information.
+
+pypsexec · PyPI
+
+swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
+Windows oneliners to get shell – ironHackers
+
+xl7dev/WebShell: Webshell && Backdoor Collection
+
+UB3RSEC - Reverse Shells
+
+Post Exploitation File Transfers on Windows the Manual Way | Michael Thelen
+
+windows-kernel-exploits/MS11-046 at master · SecWiki/windows-kernel-exploits
+
+Penetration-Testing-Grimoire/cadaver.md at master · weaknetlabs/Penetration-Testing-Grimoire
+
+AresS31/xmlrpc-bruteforcer: Multi-threaded XMLRPC brute forcer using amplification attacks targeting WordPress installations prior to version 4.4.
+
+Offensive-Security-OSCP-Cheatsheets/ssh-tunnelling-port-forwarding.md at master · mantvydasb/Offensive-Security-OSCP-Cheatsheets
+
+Diary of a reverse-engineer
+
+CTF-notes/Kali Linux Offensive Security Certified Professional Playbook.html at master · Shiva108/CTF-notes
+
+https://h4ck.co/wp-content/uploads/2018/06/cheatsheet.txt
+
+spencerdodd/kernelpop: kernel privilege escalation enumeration and exploitation framework
+
+From MS14-068 to Full Compromise - Step by Step
+
+Enumerating Windows Domains with rpcclient through SocksProxy == Bypassing Command Line Logging - Red Teaming Experiments
+
+Infrastructure PenTest Series : Part 3 - Exploitation — tech.bitvijays.com
+
+citronneur/rdpy: Remote Desktop Protocol in Twisted Python
+
+pWnOS 2 (SQL Injection)
+
+Time based Blind Injection
+
+Explore Hidden Networks With Double Pivoting – Pentest Blog
+
+The Journey to Try Harder: TJnull’s Preparation Guide for PWK/OSCP | NetSec Focus
+
+Port Forwarding in Windows | Windows OS Hub
+
+How to Pivot the Network (Port-Forwarding/Redirection) - A Hands-On Look - Cybrary
+
+OSCP Goldmine (not clickbait) | 0xc0ffee☕
+
+Oscp exam guide - Offensive Security
+
+Offensive Security Support - Live Chat
+
+doffensive/wired-courtyard: Handbook and survival guide for hacking over the wire, OSCP-style
+
+doffensive/wired-courtyard: Handbook and survival guide for hacking over the wire, OSCP-style
+
+Setting up an SSH tunnel to access Remote Desktop using Putty and SSHD on Linux | Johan Driessen
+
+A Red Teamer's guide to pivoting
+
+PayloadsAllTheThings/Network Pivoting Techniques.md at master · swisskyrepo/PayloadsAllTheThings
+
+Dynamic Port Forwarding (SSH)
+
+Whitelist: SSH Tunneling (III): DYNAMIC port forwarding with PROXYCHAINS
+
+Pivoting - Hacking
+
+Internal Network - Hacking
+
+https://raw.githubusercontent.com/eset/malware-research/master/moose/targeted-vendors/default-credentials-list.txt
+
+SSH Tunneling - Local, Remote & Dynamic
+
+A Guide to SSH Port Forwarding/Tunnelling - Boolean World
+
+WTF? Reverse SSH tunnel and Dynamic proxy via Plink : oscp
+
+rpivot: socks4 reverse proxy for penetration testing • Penetration Testing
+
+klsecservices/rpivot: socks4 reverse proxy for penetration testing
+
+Exploit Development – Infosec Notes to Myself
+
+Buffer Overflows – An introduction with SLMail – A site about computers, security, communication and life.
+
+Basic Buffer Overflows - Thor-Sec
+
+Handy Commands for Exploit Development · Greycel
+
+Immunity Debugger basics, part 1 | Blog for and by my students, current and future...
+
+Exploiting "Vulnerable Server" for Windows 7
+
+whoami | Microsoft Docs
+
+How to Find the Security Identifier of Any User Account in Windows - Make Tech Easier
+
+List members of a Windows group using command line - Super User
+
+Command Line User Administration Tutorial for Windows User
+
+Privilege Escalation | Penetration Testing Lab
+
+MyExperiments - Local Linux privilege escalation overview
+
+iKuppu: Windows Post Exploitation
+
+OSCP Exam Attempt #2 – FalconSpy – Medium
+
+Tib3rius/AutoRecon: AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+
+dzonerzy/goWAPT: Go Web Application Penetration Test
+
+OSCP Course & Exam Preparation - Ellingson Mineral
+
+51x/WHP: Micro$oft Windows Hacking Pack
+
+Infosec_Reference/privesc.md at master · rmusser01/Infosec_Reference
+
+Windows Privilege Escalation Methods for Pentesters – Pentest Blog
+
+Privilege escalation: Windows - Hacker's Grimoire
+
+Windows Privilege Escalation Guide
+
+Exploiting Wildcard for Privilege Escalation
+
+Hack the Box Challenge: Europa Walkthrough
+
+Hack the Milnet VM (CTF Challenge)
+
+Linux Privilege Escalation by Exploiting Cronjobs
+
+Privilege Escalation on Windows 7,8,10, Server 2008, Server 2012 using Potato
+
+sagishahar/lpeworkshop: Windows / Linux Local Privilege Escalation Workshop
+
+Linux Privilege Escalation using Misconfigured NSF
+
+Privilege escalation: Linux - Hacker's Grimoire
+
+Day 44: Linux Capabilities Privilege Escalation via OpenSSL with SELinux Enabled and Enforced.
+
+abatchy17/WindowsExploits: Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.
+
+OSCP Review - AwanSec
+
+Beginner’s Guide to Impacket Tool kit (Part 1)
+
+Dumping Domain Password Hashes | Penetration Testing Lab
+
+https://raw.githubusercontent.com/M4ximuss/Powerless/master/Powerless.bat
+
+sectalks/ctf-solutions/SYD0x0b/z00nx at master · sectalks/sectalks
+
+CTF Series : Vulnerable Machines — tech.bitvijays.com
+
+Hack the Box: Solid State Walkthrough – Deceptive Security
+
+Optimum write-up - The Portal of Knowledge
+
+yanncam/exe2powershell: exe2powershell - exe2bat reborn for modern Windows
+
+Windows Privilege Escalation – daya's blog
+
+Always Install Elevated | Penetration Testing Lab
+
+Windows Privilege Escalation (AlwaysInstallElevated)
+
+PayloadsAllTheThings/Linux - Privilege Escalation.md at master · swisskyrepo/PayloadsAllTheThings
+
+MySQL Root to System Root with lib_mysqludf_sys for Windows and Linux
+
+juliocesarfort/public-pentesting-reports: Curated list of public penetration test reports released by several consulting firms and academic security groups
+
+ohpe/juicy-potato: A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
+
+Privilege Escalation | Penetration Testing Lab | Page 2
+
+MSIEXEC | Penetration Testing Lab
+
+Nishang | Penetration Testing Lab
+
+Offensive Security FAQ
+
+Identifying and Cracking Hashes
+
+Hack the Box Challenge Lazy Walkthrough
+
+https://raw.githubusercontent.com/Dhayalanb/windows-php-reverse-shell/master/Reverse Shell.php
+
+Apache CouchDB < 2.1.0 - Remote Code Execution
+
+PayloadsAllTheThings/Reverse Shell Cheatsheet.md at master · swisskyrepo/PayloadsAllTheThings
+
+Apache CouchDB 1.7.0 / 2.x < 2.1.1 - Remote Privilege Escalation
+
+oscommerce exploit - Google Search
+
+osCommerce 2.3.4.1 - Remote Code Execution
+
+September | 2016 |
+
+ProFTPd 1.3.5 Remote File Copy - CXSecurity.com
+
+windows-php-reverse-shell/Reverse Shell.php at master · Dhayalanb/windows-php-reverse-shell
